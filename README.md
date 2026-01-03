@@ -1,4 +1,4 @@
-Этот репозиторий является форком <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> и ставит целью добавление Whatsapp в запрет, ничего не менея в коде.
+Этот репозиторий является форком <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> и ставит целью добавление Whatsapp в запрет, ничего не меняя в коде.
 
 Все изменения производятся исключительно с целью добавления Whatsapp.
 
