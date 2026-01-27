@@ -48,3 +48,4 @@ wa.me
 whatsapp.biz
 whatsapp.net
 whatsapp.com
+localizeapi.com
